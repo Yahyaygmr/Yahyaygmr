@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yahyaygmr
+- 👋 Hi, I’m Yahya
 - 👀 I’m interested in C, C#, Asp .Net
 - 🌱 I’m currently learning C , .Net Core
 <!-- 💞️ I’m looking to collaborate on ...-->
