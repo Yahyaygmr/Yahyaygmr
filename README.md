@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yahyaygmr
 - 👀 I’m interested in C, C#, Asp .Net
 - 🌱 I’m currently learning C , .Net Core
-- 💞️ I’m looking to collaborate on ...
+<!-- 💞️ I’m looking to collaborate on ...-->
 - 📫 How to reach me: i am in "yahyayagmur.com" and my E-Mail is "yahyaygmr@gmail.com"
 
 <!---
