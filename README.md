@@ -18,4 +18,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yahyaygmr&show_icons=true&locale=en" alt="yahyaygmr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yahyaygmr&" alt="yahyaygmr" /></p>
+*.css linguist-detectable=false
+*.js linguist-detectable=false
+*.scss linguist-detectable=false
+*.html linguist-detectable=false
 
